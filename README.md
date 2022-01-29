@@ -18,6 +18,7 @@ Add
     * [Virtual Reality](#purely-immersive-vr)
     * [Augmented Reality](#purely-immersive-ar)
     * [Mixed Reality](#purely-immersive-mr)
+* [Building MR Applications](#building-mr-applications)
 
 An important aspect of research in molecular visualization in an immersive virtual environment is the development of software tools and prototypes. Therefore, we also paid attention to the availability of software tools during the literature review. We list the number of tools available and focus on those that can be downloaded and tested. The purpose of this section is to address two types of readers. The first type is the reader who is only interested in the available tools that he can use and test for a specific domain challenge. The second type of reader is interested in developing a prototype for mixed reality molecular visualization. Therefore, we also discuss the options for the interested reader to start these prototypes, as well as the advantages and disadvantages of the available APIs and frameworks. 
 
