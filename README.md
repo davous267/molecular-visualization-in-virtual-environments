@@ -63,7 +63,7 @@ A large number of approaches are being developed as standalone tools. It should 
 
 * **Palantir**[[Website](https://github.com/ning-y/Palantir)|[Publication]()] - Android App. Enables the download from the RSCB PDB. Provides basic representations and interactions, such as scaling, rotation, and translation. 
 * **BiochemAR**[[Website](https://play.google.com/store/apps/details?id=edu.carleton.its.biochemAR&hl=en_US&gl=US)|[Publication]()] - Android App. Uses a QR code to render the molecular structure. Visualizes the potassium channel. 
-* **NuPOV **[[Website](https://apps.apple.com/us/app/nupov/id1457522388)|[Publication]()] - Android App. AR interaction with simple molecular models that visualized from chemical formulas .
+* **NuPOV**[[Website](https://apps.apple.com/us/app/nupov/id1457522388)|[Publication]()] - Android App. AR interaction with simple molecular models that visualized from chemical formulas .
 * **MoleculARweb**[[Website](https://molecularweb.epfl.ch/)|[Publication]()] - A web app for smartphones that allows for AR viewing of simple molecules using cut out markers.  
 * **AR assisted visualisation**[[Website](https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR)|[Publication]()] - Android App that features an AR viewer for simple molecular structures. 
 	
