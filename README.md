@@ -64,5 +64,6 @@ TODO
 	
 ## Mixed Reality <a name="purely-immersive-mr"></a>
 * **Holocule**[[Website](https://www.microsoft.com/en-us/p/holocule/9nblggh513z0?SilentAuth=1#activetab=pivot:overviewtab)|[Publication]()] - This app is available for the HoloLens. It loads and renders molecules using standard molecular representations. The user can walk around the molecule, position and scale the representation. 
+* **ChemPreview**[[Website](https://github.com/wallerlab/chem-preview/releases)|[Publication](https://doi.org/10.1016/j.jmgm.2017.01.019)] - An application built for Meta 1 glasses that allows for manipulation with atoms and measurement of bond lengths and distances.
 
 
