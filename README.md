@@ -20,8 +20,8 @@ Add
     * [Virtual Reality](#purely-immersive-vr)
     * [Augmented Reality](#purely-immersive-ar)
     * [Mixed Reality](#purely-immersive-mr)
-* [Building MR Applications](#building-mr-applications)
-
+<!-- * [Building MR Applications](#building-mr-applications)
+ -->
 
 # Extensions of Existing Desktop Applications <a name="desktop-extensions"></a>
 
