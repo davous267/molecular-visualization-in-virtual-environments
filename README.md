@@ -3,6 +3,8 @@ A curated list of applications focusing on molecular visualization in immersive 
 
 Created as a part of the publication *State of the Art of Molecular Visualization in Immersive Virtual Environments* submitted to EuroVis 2022.
 
+If you would like to add to this list, please checkout how to [contribute](https://github.com/davous267/molecular-visualization-in-virtual-environments/blob/main/contributing.md). 
+
 <!--
 # Emoji Labels
 Add
