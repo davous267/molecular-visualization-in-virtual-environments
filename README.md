@@ -20,13 +20,8 @@ Add
     * [Mixed Reality](#purely-immersive-mr)
 * [Building MR Applications](#building-mr-applications)
 
-An important aspect of research in molecular visualization in an immersive virtual environment is the development of software tools and prototypes. Therefore, we also paid attention to the availability of software tools during the literature review. We list the number of tools available and focus on those that can be downloaded and tested. The purpose of this section is to address two types of readers. The first type is the reader who is only interested in the available tools that he can use and test for a specific domain challenge. The second type of reader is interested in developing a prototype for mixed reality molecular visualization. Therefore, we also discuss the options for the interested reader to start these prototypes, as well as the advantages and disadvantages of the available APIs and frameworks. 
-
-We have found that the published work that appeared before the first consumer-grade MR headsets were available mostly used specialized hardware and specialized software, which made it difficult to spread the approach among interested researchers, at least it was only possible in certain niches. Later, the tools became more widely available as it became easier to test them on commonly available hardware, as described in the Hardware section. We found that the tools can be divided into two main categories. The first are extensions of existing desktop tools that provide additional immersive functionality. The second are tools designed exclusively for immersive devices. We encourage readers to take a close look at existing tools and see if certain desired functionality already exists. 
 
 # Extensions of Existing Desktop Applications <a name="desktop-extensions"></a>
-
-Some of the existing molecular visualization tools, such as Chimera and SAMSON Connect and others, have recognized the potential of 3D interaction and viewing. The major advantage of these tools is that they access a large number of features that already exist in desktop tools. Often it is simply the ability to view the molecular scene in an immersive environment, while interactive modeling is only possible on the desktop side. This setup allows for a workflow where the user can take advantage of both modalities, i.e., the desktop tools have been developed over an extended period of time and provide powerful molecular visualization and modeling capabilities that are indirectly accessible from the immersive environment. As mentioned earlier, text input in MR is a major challenge, which would be alleviated by having access to the desktop tool. Currently available desktop tools with MR capabilities are: 
 
 ## Virtual Reality <a name="desktop-extensions-vr"></a>
 * **VMD**[[Website](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)|[Publication]()] - VMD is a powerful molecular viewer that also supports the export of VR movies.  
@@ -42,8 +37,6 @@ TODO
 TODO
  -->
 # Applications Designed Solely for Immersive Devices <a name="purely-immersive"></a>
-
-A large number of approaches are being developed as standalone tools. It should be noted that while there are some existing desktop versions, there is no direct connection to the desktop tool and the workflow is mainly facilitated in the immersive environment. Examples of such tools are: 
 
 ## Virtual Reality <a name="purely-immersive-vr"></a>
 
