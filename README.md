@@ -57,7 +57,7 @@ A large number of approaches are being developed as standalone tools. It should 
 * **Peppy**[[Website](https://github.com/ddoak/peppy)|[Publication]()] - Allows viewer to experience dynamics and forces of proteins in VR. 
 * **Molecular Rift**[[Website](https://github.com/JBostrom/MolecularRiftv2)|[Publication]()] - A VR tool for drug design. 
 * **VRmol**[[Website](https://vrmol.net/)|[Publication]()] - A web-based VR viewer 
-* **PROteinVR.**[[Website](https://www.appmindedapps.com/proteinvr.html)|[Publication]()] - Andriod App. A VR PDB viewer.  
+* **PROteinVR.**[[Website](https://www.appmindedapps.com/proteinvr.html)|[Publication]()] - Android App. A VR PDB viewer.  
 	
 ## Augmented Reality <a name="purely-immersive-ar"></a>
 
