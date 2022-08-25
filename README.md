@@ -20,9 +20,10 @@ Add
     * [Virtual Reality](#purely-immersive-vr)
     * [Augmented Reality](#purely-immersive-ar)
     * [Mixed Reality](#purely-immersive-mr)
-<!-- * [Building MR Applications](#building-mr-applications)
- -->
-
+* [Building MR Applications](#building-mr-applications)
+    * [Desktop-based](#desktop-based-development)
+    * [Other Devices](#other-devices-development)
+   
 # Extensions of Existing Desktop Applications <a name="desktop-extensions"></a>
 
 ## Virtual Reality <a name="desktop-extensions-vr"></a>
@@ -70,14 +71,13 @@ TODO
 * **Holocule**[[Website](https://www.microsoft.com/en-us/p/holocule/9nblggh513z0?SilentAuth=1#activetab=pivot:overviewtab)] - This app is available for the HoloLens. It loads and renders molecules using standard molecular representations. The user can walk around the molecule, position and scale the representation. 
 * **ChemPreview**[[Website](https://github.com/wallerlab/chem-preview/releases)|[Publication](https://doi.org/10.1016/j.jmgm.2017.01.019)] - An application built for Meta 1 glasses that allows for manipulation with atoms and measurement of bond lengths and distances.
 
-# Development Tools <a name="development-tools"></a>
+# Build MR Applications <a name="building-mr-applications"></a>
 
 Here we mention application development tools in MR that requires specific APIs or libraries. 
 
 ## Desktop-based <a name="desktop-based-development" />
 
 There are several possibilities for the development of desktop applications. One family of tools are game engines. But the development can also be done on the tools created by the OEMs, for example. Lately, the development of a running application inside the browser has also become a possibility. Some of the most popular tools for the development of desktop-based applications are:
-
 
 * **Unity**[[Website](https://unity.com/)] - It is a full-featured game engine that incorporates VR and AR capabilities. Unity can also be used to develop mobile applications.
 * **Unreal Engine**[[Website](https://www.unrealengine.com/)] - Unreal Engine is another game engine that can be used for the development of molecular visualization applications. It supports MR development and a number of different HMDs and input devices.
