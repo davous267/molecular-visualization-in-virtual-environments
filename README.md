@@ -53,7 +53,9 @@ TODO
 * **Molecular Rift**[[Website](https://github.com/JBostrom/MolecularRiftv2)|[Publication](https://pubs.acs.org/doi/10.1021/acs.jcim.5b00544)] - A VR tool for drug design. 
 * **VRmol**[[Website](https://vrmol.net/)|[Publication](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa696/5879988)] - A web-based VR viewer 
 * **PROteinVR.**[[Website](https://www.appmindedapps.com/proteinvr.html)] - Android App. A VR PDB viewer.  
-	
+* **Nanoscape VR**[[Website](https://store.steampowered.com/app/1634740/Nanoscape_VR/] - VR exploration of the cancer cell, its anatomy and processes.
+* **MOF-VR**[[Website](https://sourceforge.net/projects/mof-vr/)|[Publication](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c00158)] - Virtual reality tool for performing and visualizing molecular dynamics simulations in metal-organic frameworks. 
+
 ## Augmented Reality <a name="purely-immersive-ar"></a>
 
 * **Palantir**[[Website](https://github.com/ning-y/Palantir)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DynamicDOIArticle&SrcApp=WOS&KeyAID=10.1002\%2Fbmb.21335&DestApp=DOI&SrcAppSID=F2zxxr8teLBbZDtOSR9&SrcJTitle=BIOCHEMISTRY+AND+MOLECULAR+BIOLOGY+EDUCATION&DestDOIRegistrantName=Wiley+\%28John+Wiley+\%26+Sons\%29)] - Android App. Enables the download from the RSCB PDB. Provides basic representations and interactions, such as scaling, rotation, and translation. 
@@ -61,7 +63,9 @@ TODO
 * **NuPOV**[[Website](https://apps.apple.com/us/app/nupov/id1457522388)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DOISource&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.0c00387&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - Android App. AR interaction with simple molecular models that visualized from chemical formulas .
 * **MoleculARweb**[[Website](https://molecularweb.epfl.ch/)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DynamicDOIArticle&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.1c00179&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - A web app for smartphones that allows for AR viewing of simple molecules using cut out markers.  
 * **AR assisted visualisation**[[Website](https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR)] - Android App that features an AR viewer for simple molecular structures. 
-	
+* **BioSIM AR**[[Website]([https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR](https://ar.biosim.pt/)[Publication](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01317)] - A web-based AR molecular visualization application utilizing markers. 
+
+
 ## Mixed Reality <a name="purely-immersive-mr"></a>
 * **Holocule**[[Website](https://www.microsoft.com/en-us/p/holocule/9nblggh513z0?SilentAuth=1#activetab=pivot:overviewtab)] - This app is available for the HoloLens. It loads and renders molecules using standard molecular representations. The user can walk around the molecule, position and scale the representation. 
 * **ChemPreview**[[Website](https://github.com/wallerlab/chem-preview/releases)|[Publication](https://doi.org/10.1016/j.jmgm.2017.01.019)] - An application built for Meta 1 glasses that allows for manipulation with atoms and measurement of bond lengths and distances.
