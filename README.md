@@ -71,7 +71,7 @@ TODO
 * **Holocule**[[Website](https://www.microsoft.com/en-us/p/holocule/9nblggh513z0?SilentAuth=1#activetab=pivot:overviewtab)] - This app is available for the HoloLens. It loads and renders molecules using standard molecular representations. The user can walk around the molecule, position and scale the representation. 
 * **ChemPreview**[[Website](https://github.com/wallerlab/chem-preview/releases)|[Publication](https://doi.org/10.1016/j.jmgm.2017.01.019)] - An application built for Meta 1 glasses that allows for manipulation with atoms and measurement of bond lengths and distances.
 
-# Build MR Applications <a name="building-mr-applications"></a>
+# Building MR Applications <a name="building-mr-applications"></a>
 
 Here we mention application development tools in MR that requires specific APIs or libraries. 
 
