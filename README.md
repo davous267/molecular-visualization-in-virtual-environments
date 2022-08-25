@@ -63,11 +63,32 @@ TODO
 * **NuPOV**[[Website](https://apps.apple.com/us/app/nupov/id1457522388)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DOISource&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.0c00387&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - Android App. AR interaction with simple molecular models that visualized from chemical formulas .
 * **MoleculARweb**[[Website](https://molecularweb.epfl.ch/)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DynamicDOIArticle&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.1c00179&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - A web app for smartphones that allows for AR viewing of simple molecules using cut out markers.  
 * **AR assisted visualisation**[[Website](https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR)] - Android App that features an AR viewer for simple molecular structures. 
-* **BioSIM AR**[[Website](https://ar.biosim.pt/)[Publication](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01317)] - A web-based AR molecular visualization application utilizing markers. 
+* **BioSIM AR**[[Website](https://ar.biosim.pt/)|[Publication](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01317)] - A web-based AR molecular visualization application utilizing markers. 
 
 
 ## Mixed Reality <a name="purely-immersive-mr"></a>
 * **Holocule**[[Website](https://www.microsoft.com/en-us/p/holocule/9nblggh513z0?SilentAuth=1#activetab=pivot:overviewtab)] - This app is available for the HoloLens. It loads and renders molecules using standard molecular representations. The user can walk around the molecule, position and scale the representation. 
 * **ChemPreview**[[Website](https://github.com/wallerlab/chem-preview/releases)|[Publication](https://doi.org/10.1016/j.jmgm.2017.01.019)] - An application built for Meta 1 glasses that allows for manipulation with atoms and measurement of bond lengths and distances.
 
+# Development Tools <a name="development-tools"></a>
 
+Here we mention application development tools in MR that requires specific APIs or libraries. 
+
+## Desktop-based <a name="desktop-based-development" />
+
+There are several possibilities for the development of desktop applications. One family of tools are game engines. But the development can also be done on the tools created by the OEMs, for example. Lately, the development of a running application inside the browser has also become a possibility. Some of the most popular tools for the development of desktop-based applications are:
+
+
+* **Unity**[[Website](https://unity.com/)] - It is a full-featured game engine that incorporates VR and AR capabilities. Unity can also be used to develop mobile applications.
+* **Unreal Engine**[[Website](https://www.unrealengine.com/)] - Unreal Engine is another game engine that can be used for the development of molecular visualization applications. It supports MR development and a number of different HMDs and input devices.
+* **WebXR**[[Website](https://www.w3.org/TR/webxr/)] - WebXR is a specification that has been created under the auspices of the World Wide Web Consortium (W3C). Nowadays, all major web browsers support the specification and thus, it is feasible to have MR applications inside the browser. ProteinVR, for example, builds upon Babylon.js which, in turn, uses WebVR (the predecessor of WebXR) under the hood.
+* **Windows Mixed Reality**[[Website](https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality)] - Windows Mixed Reality is a set of tools by Microsoft for MR developments. It supports both the development of VR and AR applications.
+
+## Other Devices <a name="other-devices-development" />
+
+With mobile devices becoming more and more powerful and the fact that many people own one, it is natural that many researchers have turned their attention to the development of MR applications in such devices. Some toolkits and SDKs that facilitate the task are:
+
+* **Name**[[Website]()] - Text
+* **ARCore**[[Website](https://developers.google.com/ar)] - Google's own platform for AR development. It supports qualified Android phones running Android version 7 (Nougat) or later (current is 12).
+* **ARKit**[[Website](https://developer.apple.com/augmented-reality)] - ARKit  is an SDK by Apple. It has an accompanying framework, named RealityKit 2, which offers extra features, such as realistic rendering or object occlusion (using the device's LiDAR scanner).  
+* **Vuforia Engine**[[Website](https://developer.vuforia.com/)] - Vuforia Engine is an augmented reality software development kit (SDK) originally owned by Qualcomm and, since 2015, by the IoT company PTC. Vuforia can be used under Unity and supports Android, iOS, Windows, and Lumin OS. Under the hood, it uses ARCore (Android) or ARKit (for iOS) if the hardware supports it; otherwise, it uses its own code.
