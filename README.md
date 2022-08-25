@@ -63,7 +63,7 @@ TODO
 * **NuPOV**[[Website](https://apps.apple.com/us/app/nupov/id1457522388)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DOISource&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.0c00387&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - Android App. AR interaction with simple molecular models that visualized from chemical formulas .
 * **MoleculARweb**[[Website](https://molecularweb.epfl.ch/)|[Publication](https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=DynamicDOIArticle&SrcApp=WOS&KeyAID=10.1021\%2Facs.jchemed.1c00179&DestApp=DOI&SrcAppSID=F3NFVMSIaptTpCEjEGO&SrcJTitle=JOURNAL+OF+CHEMICAL+EDUCATION&DestDOIRegistrantName=American+Chemical+Society)] - A web app for smartphones that allows for AR viewing of simple molecules using cut out markers.  
 * **AR assisted visualisation**[[Website](https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR)] - Android App that features an AR viewer for simple molecular structures. 
-* **BioSIM AR**[[Website]([https://play.google.com/store/apps/details?id=com.UniCPH.Android.MoleculAR](https://ar.biosim.pt/)[Publication](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01317)] - A web-based AR molecular visualization application utilizing markers. 
+* **BioSIM AR**[[Website](https://ar.biosim.pt/)[Publication](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.0c01317)] - A web-based AR molecular visualization application utilizing markers. 
 
 
 ## Mixed Reality <a name="purely-immersive-mr"></a>
