@@ -28,8 +28,8 @@ Add
 ## Virtual Reality <a name="desktop-extensions-vr"></a>
 * **VMD**[[Website](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)|[Publication](https://ieeexplore.ieee.org/document/7529978)] - VMD is a powerful molecular viewer that also supports the export of VR movies.  
 * **ChimeraX**[[Website](https://www.cgl.ucsf.edu/chimerax/docs/user/vr.html)|[Publication](https://www.sciencedirect.com/science/article/pii/S002228361830696X)] - A comprehensive and powerful molecular visualization tool with high performance rendering and comparative modeling. Its VR mode supports multiple users and interactive viewering. 
-* **SAMSON Connect**[[Website](https://www.samson-connect.net/element/64225415-0c58-6ef2-4b29-f6e78a01e460.html)|[Publication](https://www.samson-connect.net/)] - This tool offers powerful visualization, modeling, and simulation capabilities to create molecular structures. It features a VR Portal where the same interactions can be performed. 
-* **YASARA**[[Website](http://www.yasara.org/)|[Publication](http://www.yasara.org/about.htm)] - A visualization, modeling and simulation software with a Android App for VR viewing. 
+* **SAMSON Connect**[[Website](https://www.samson-connect.net/element/64225415-0c58-6ef2-4b29-f6e78a01e460.html)] - This tool offers powerful visualization, modeling, and simulation capabilities to create molecular structures. It features a VR Portal where the same interactions can be performed. 
+* **YASARA**[[Website](http://www.yasara.org/)] - A visualization, modeling and simulation software with a Android App for VR viewing. 
 	
 
 <!-- ## Augmented Reality <a name="desktop-extensions-ar"></a>
@@ -42,8 +42,8 @@ TODO
 
 ## Virtual Reality <a name="purely-immersive-vr"></a>
 
-* **UnityMol**[[Website](https://sourceforge.net/projects/unitymol/files/)|[Publication]()] - A capable molecular viewer and prototyping platform build in the Unity game engine. It loads a variety of molecular formats (PDB, mmCIF, GRO, Mol2, XYZ and SDF files, OpenDX potential maps, XTC trajectory files) and provides efficient molecular visualization via hardware accelerated rendering. The application is actively maintained and provides advances features for structure analysis and MD simulation analysis. 
-* **Nanome**[[Website](https://nanome.ai/)|[Publication]()] - A commercial tool aimed for molecular design in Virtual Reality. It provides extensive visualization and interaction features, includes molecular docking methods, and enables multi user operation. 
+* **UnityMol**[[Website](https://sourceforge.net/projects/unitymol/files/)|[Publication](https://ieeexplore.ieee.org/abstract/document/7151718)] - A capable molecular viewer and prototyping platform build in the Unity game engine. It loads a variety of molecular formats (PDB, mmCIF, GRO, Mol2, XYZ and SDF files, OpenDX potential maps, XTC trajectory files) and provides efficient molecular visualization via hardware accelerated rendering. The application is actively maintained and provides advances features for structure analysis and MD simulation analysis. 
+* **Nanome**[[Website](https://nanome.ai/)] - A commercial tool aimed for molecular design in Virtual Reality. It provides extensive visualization and interaction features, includes molecular docking methods, and enables multi user operation. 
 * **Narupa**[[Website](https://irl.itch.io/narupaxr)|[Publication]()] - A tool for interactive multi-user molecular dynamics simulation in VR. 
 * **ProteinVR**[[Website](https://durrantlab.pitt.edu/pvr)|[Publication]()] - ProteinVR is a web-based VR molecular visualization tool that is compatible with several browsers across different desktop and mobile operative systems. 
 * **iSciVIS**[[Website](https://interactivescientific.com/iscivis-2/)|[Publication]()] - A tool for interactive multi-user view of cloud-mounted molecular dynamics simulations .
