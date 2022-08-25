@@ -26,10 +26,10 @@ Add
 # Extensions of Existing Desktop Applications <a name="desktop-extensions"></a>
 
 ## Virtual Reality <a name="desktop-extensions-vr"></a>
-* **VMD**[[Website](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)|[Publication]()] - VMD is a powerful molecular viewer that also supports the export of VR movies.  
-* **ChimeraX**[[Website](https://www.cgl.ucsf.edu/chimerax/docs/user/vr.html)|[Publication]()] - A comprehensive and powerful molecular visualization tool with high performance rendering and comparative modeling. Its VR mode supports multiple users and interactive viewering. 
-* **SAMSON Connect**[[Website](https://www.samson-connect.net/element/64225415-0c58-6ef2-4b29-f6e78a01e460.html)|[Publication]()] - This tool offers powerful visualization, modeling, and simulation capabilities to create molecular structures. It features a VR Portal where the same interactions can be performed. 
-* **YASARA**[[Website](http://www.yasara.org/)|[Publication]()] - A visualization, modeling and simulation software with a Android App for VR viewing. 
+* **VMD**[[Website](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)|[Publication](https://ieeexplore.ieee.org/document/7529978)] - VMD is a powerful molecular viewer that also supports the export of VR movies.  
+* **ChimeraX**[[Website](https://www.cgl.ucsf.edu/chimerax/docs/user/vr.html)|[Publication](https://www.sciencedirect.com/science/article/pii/S002228361830696X)] - A comprehensive and powerful molecular visualization tool with high performance rendering and comparative modeling. Its VR mode supports multiple users and interactive viewering. 
+* **SAMSON Connect**[[Website](https://www.samson-connect.net/element/64225415-0c58-6ef2-4b29-f6e78a01e460.html)|[Publication](https://www.samson-connect.net/)] - This tool offers powerful visualization, modeling, and simulation capabilities to create molecular structures. It features a VR Portal where the same interactions can be performed. 
+* **YASARA**[[Website](http://www.yasara.org/)|[Publication](http://www.yasara.org/about.htm)] - A visualization, modeling and simulation software with a Android App for VR viewing. 
 	
 
 <!-- ## Augmented Reality <a name="desktop-extensions-ar"></a>
